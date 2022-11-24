@@ -7,13 +7,13 @@ This project will have you do the same as [Project 3_0](https://classroom.github
 
 ## ***Smart Dashboard***
 ### What is the Smart Dashboard? ###
-<img src="images/SmartDashboard.png" alt="drawing" width="200"/>
+<img src="images/SmartDashboard.png" alt="drawing"/>
 
 The Smart Dashboard is a dashboard that appears as an option on the *driverstation laptop*. You can use this to layout debugging information and other important information regarding the state of your robot in real time (updates as the robot runs).
 
 ## ***Shuffleboard***
 ### What is the Shuffleboard? ###
-<img src="Shuffleboard.png\" alt="drawing" width="200"/>
+<img src="Shuffleboard.png" alt="drawing"/>
 
 The Shuffleboard is another dashboard that appears as an option on the *driverstation laptop*.  It much nicer graphical widgets, sliders, etc. So it is much easier to read than the default interface of the ***Smart Dashboard***. It also has many more features outlined [here]() that the Smart Dashboard doesn't have. 
 
@@ -21,7 +21,8 @@ The Shuffleboard is another dashboard that appears as an option on the *driverst
 Typically, the Shuffleboard is always the one we use. It is a lot easier to move widgets around, look at numbers and graphs, and overall easier to use and understand.
 
 To select your dashboard type. Simply open up the *driverstation app*, go to the gear icon, and select `Dashboard Type` to be `Shuffleboard`. 
-<img src="images/Driverstation.png" alt="drawing" width="200"/>
+
+<img src="images/Driverstation.png" alt="drawing"/>
 
 Note: Shuffleboard and SmartDashboard should come pre-installed along with your WPiLib suite installation. If you do not have these showing up as options, please double check that you did your installation correctly. 
 
