@@ -71,7 +71,7 @@ Remember, lambda references to functions serve as Suppliers. You can use this to
 
 - Create [`XboxController`](https://docs.wpilib.org/en/stable/docs/software/basic-programming/joystick.html?highlight=xboxcontroller#xboxcontroller-class) object called `mainController` in RobotContainer.java
 	- [More](https://github.com/MillenniumFalcons/2022-RapidReact/blob/main/src/main/java/team3647/lib/inputs/Joysticks.java) on how to use XboxController
-- Use `'::'` to refer to the joystick value that is constantly updated
+- Use `::` to refer to the joystick value that is constantly updated
 - Put the value of `mainContoller` in real time with `GroupPrinter` on to the SmartDashboard. 
 
 ## ***Authors***
