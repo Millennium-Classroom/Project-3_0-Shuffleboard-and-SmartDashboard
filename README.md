@@ -13,7 +13,7 @@ The Smart Dashboard is a dashboard that appears as an option on the *driverstati
 
 ## ***Shuffleboard***
 ### What is the Shuffleboard? ###
-<img src="Shuffleboard.png" alt="drawing"/>
+<img src="images/Shuffleboard.png" alt="drawing"/>
 
 The Shuffleboard is another dashboard that appears as an option on the *driverstation laptop*.  It much nicer graphical widgets, sliders, etc. So it is much easier to read than the default interface of the ***Smart Dashboard***. It also has many more features outlined [here]() that the Smart Dashboard doesn't have. 
 
